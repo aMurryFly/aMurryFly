@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever thing that you want to learn ✌️
 - 📫 How to reach me: [Youtube - @Alfonso Murrieta Villegas](https://youtube.com/channel/UCg34pnJnfJcztkTxpr3_TaQ)
 - ⚡ Fun fact: I love listening to music while I'm developing software 
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aMurryFly&theme=light&hide_langs_below=1" />
+</a>
