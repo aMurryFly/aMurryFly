@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning more about AI and Data Science 
 - 👨🏻‍ I’m looking to collaborate on IoT projects with ESP32 
 - 💬 Ask me about whatever thing that you want to learn ✌️
-- 📫 How to reach me: [Youtube - @Alfonso Murrieta Villegas](https://youtube.com/channel/UCg34pnJnfJcztkTxpr3_TaQ
+- 📫 How to reach me: [Youtube - @Alfonso Murrieta Villegas](https://youtube.com/channel/UCg34pnJnfJcztkTxpr3_TaQ)
 - ⚡ Fun fact: I love listening to music while I'm developing software 
