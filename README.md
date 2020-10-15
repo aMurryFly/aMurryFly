@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Youtube - @Alfonso Murrieta Villegas](https://youtube.com/channel/UCg34pnJnfJcztkTxpr3_TaQ)
 - ⚡ Fun fact: I love listening to music while I'm developing software 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/aMurryFly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aMurryFly&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/aMurryFly">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aMurryFly&show_icons=true&theme=light&line_height=27" alt="Alfonso's github stats"/>
 </a>
