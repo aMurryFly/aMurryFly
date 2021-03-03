@@ -1,18 +1,22 @@
-### Hi everyone 👋
+# Hi there I am Alfonso and this is my "ReadMe" ✌🏻
 
-<!--
-**aMurryFly/aMurryFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Alfonso, currently a mexican student on software engeneering who love share knowledge and emotivity. 
+I´m a fan (nerd) of software, particulary looking for new technologies and gadgets.
 
-Here are some ideas to get you started:
--->
+## ✅ My values
 
-- 🔭 I’m currently working on ROS from AI mini projects to Mapping Generation
-- 💻 I’m currently learning more about AI and Data Science 
-- 🧑‍💻 I’m looking to collaborate on IoT projects with ESP32 
-- 💬 Ask me about whatever thing that you want to learn ✌️
-- 📫 How to reach me: [Youtube - @Alfonso Murrieta Villegas](https://youtube.com/channel/UCg34pnJnfJcztkTxpr3_TaQ)
-- ⚡ Fun fact: I love listening to music while I'm developing software 
+💪🏻 Unity is strength
+🚀 Diversity is key
+🙌🏻 Leading by example
+🔝 Quality first
 
-<a href="https://github.com/aMurryFly">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aMurryFly&show_icons=true&theme=light&line_height=27" alt="Alfonso's github stats"/>
-</a>
+## ✅ How I work ? 
+
+if you work with your heart and think with your mind everything is possible to do 
+
+## Projects, lenguages, my work ? 😯
+
+- 💻 I’m currently learning more about AI and Data Science on finance
+- 💬 Ask me about whatever thing that you want to learn ✌🏻
+- 🥳 Interesting fact: I love emojis 😅
+
