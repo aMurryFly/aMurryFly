@@ -1,6 +1,6 @@
 # Hi there I am Alfonso and this is my "ReadMe" ✌🏻
 
-Hello, I am Alfonso, a mexican student on software engeneering who love share knowledge and emotivity. 
+Hello, I am Alfonso, a mexican student on software engeneering who loves share knowledge and emotivity. 
 I´m a fan (nerd) of software, particulary looking for new technologies and gadgets.
 
 ## My values
