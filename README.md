@@ -3,16 +3,16 @@
 Hello, I am Alfonso, currently a mexican student on software engeneering who love share knowledge and emotivity. 
 I´m a fan (nerd) of software, particulary looking for new technologies and gadgets.
 
-## ✅ My values
+## My values
 
 💪🏻 Unity is strength
 🚀 Diversity is key
 🙌🏻 Leading by example
 🔝 Quality first
 
-## ✅ How I work ? 
+## How I work ? 
 
-if you work with your heart and think with your mind everything is possible to do 
+if you work with your heart and think with your mind everything is possible to do ❤️
 
 ## Projects, lenguages, my work ? 😯
 
