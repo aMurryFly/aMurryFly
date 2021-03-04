@@ -5,10 +5,10 @@ I´m a fan (nerd) of software, particulary looking for new technologies and gadg
 
 ## My values
 
-💪🏻 Unity is strength
-🚀 Diversity is key
-🙌🏻 Leading by example
-🔝 Quality first
+- 💪🏻 Unity is strength
+- 🚀 Diversity is key
+- 🙌🏻 Leading by example
+- 🔝 Quality first
 
 ## How I work ? 
 
